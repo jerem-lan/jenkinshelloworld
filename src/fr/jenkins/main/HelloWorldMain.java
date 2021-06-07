@@ -1,6 +1,6 @@
 package fr.jenkins.main;
 
-public class helloWorldMain {
+public class HelloWorldMain {
 
 	public static void main(String[] args) {
 		System.out.println("Hello world !!");
