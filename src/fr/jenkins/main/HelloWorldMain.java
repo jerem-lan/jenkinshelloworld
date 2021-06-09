@@ -3,7 +3,7 @@ package fr.jenkins.main;
 public class HelloWorldMain {
 
 	public static void main(String[] args) {
-		System.out.println("Hello jeremy !!");
+		System.out.println("Hello ludi!!");
 
 	}
 
